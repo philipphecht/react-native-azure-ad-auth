@@ -5,7 +5,6 @@
     * AzureInstance
     * AzureLoginView
     * Auth
-* [Example](#example)
 
 ## Installation
 Install package from `npm`
