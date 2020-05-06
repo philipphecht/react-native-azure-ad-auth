@@ -1,5 +1,7 @@
 ## AZURE AD VERSION 2 ##
 
+## React Native 60+ ##
+
 ## Table of content
 * [Installation](#installation)
 * [Usage](#usage)
