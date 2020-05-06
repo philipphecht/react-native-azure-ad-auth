@@ -17,9 +17,6 @@ $ yarn add react-native-azure-ad-auth
 $ yarn add https://github.com/philipphecht/react-native-azure-ad-auth
 ```
 
-## Usage
-First, import the component
-
 ```javascript
 import {AzureInstance, AzureLoginView} from 'react-native-azure-ad_auth'
 ```
