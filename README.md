@@ -1,3 +1,5 @@
+## AZURE AD VERSION 2 ##
+
 ## Table of content
 * [Installation](#installation)
 * [Usage](#usage)
