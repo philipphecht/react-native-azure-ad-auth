@@ -7,16 +7,17 @@
     * Auth
 
 ## Installation
-Install package from `npm`
+Install package from `yarn`
 ```sh
 $ yarn add react-native-azure-ad-auth
+$ yarn add https://github.com/philipphecht/react-native-azure-ad-auth
 ```
 
 ## Usage
 First, import the component
 
 ```javascript
-import {AzureInstance, AzureLoginView} from 'react-native-azure-ad-2'
+import {AzureInstance, AzureLoginView} from 'react-native-azure-ad_auth'
 ```
 Then create an AzureInstance by using Microsoft application credential that we have registered.  Also, adding application scope in order to ask users to consent when they login. For more information about scope see [Microsoft blog](https://azure.microsoft.com/en-us/documentation/articles/active-directory-v2-scopes/).
 ```javascript
